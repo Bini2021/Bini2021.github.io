@@ -1,4 +1,5 @@
 ## Binita Maity
+[Link](url) and ![Image](src)
 
 Hello, I am Binita. Currently a PhD student at the Indian Institute of Technology, Gandhinagar. My research area mostly focuses on the Scalable fair algorithms. I am curious about research problems related to bias and fairness in Machine learning.
  
@@ -32,6 +33,4 @@ Teaching Assistant Winter 2022
 - Data structure and algorithms (C Course, taught by Dr. Manoj Gupta, IIT Gandhinagar
 Teaching Assistant Summar 2021
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
