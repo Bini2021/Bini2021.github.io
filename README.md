@@ -1,4 +1,4 @@
-## Binita Maity
+# Binita Maity
 
 
 Hello, I am Binita. Currently a PhD student at the Indian Institute of Technology, Gandhinagar. My research area mostly focuses on the Scalable fair algorithms. I am curious about research problems related to bias and fairness in Machine learning.
