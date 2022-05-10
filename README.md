@@ -4,7 +4,7 @@ Hello, I am Binita. Currently a PhD student at the Indian Institute of Technolog
  
 
  
-####Education
+#### Education
  -PhD in Computer Science and Engineering, Jul 2021-Present
 IIT Gandhinagar, Gujarat, India
 Advisor: Dr. Anirban Dasgupta
@@ -18,14 +18,14 @@ Joynagar Pallishree Vidyaniketan West Bengal, India
 -SSC [Class X], Apr 2013 - Mar 2014
 Jawahar Navodaya Vidyalaya Howrah,West Bengal, India
 
- ####Work Experience 
+ #### Work Experience 
 -Project Engineer Sept 2020 - July 2021
 Wipro Technologies
 -Internship (Project Code DNA Computing) June 2019 - July 2019
 IIT KGP
  
 
- ####Teaching
+ #### Teaching
 
 -Mathematics (Fundamental theorem of calculus, IIT Gandhinagar)
 Teaching Assistant Winter 2022
