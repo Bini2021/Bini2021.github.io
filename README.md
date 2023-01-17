@@ -31,7 +31,9 @@ Teaching Assistant Winter 2022
 - Data structure and algorithms (C Course, taught by Dr. Manoj Gupta, IIT Gandhinagar
 Teaching Assistant Summar 2021
 
-VOLUNTEERING
+#### VOLUNTEERING
+
+
 • Indian Symposium on Machine Learning (IndoML – 2022) Dec 2022
 • Global Initiative of Academic Networks (GIAN) Course on Randomized Methods for Parameterized Algorithms by Prof. Daniel
 Lokshtanov Dec 2022
